@@ -27,7 +27,7 @@ SaaShovel is the ultimate TALL stack starter-kit designed to help you launch you
 
 ## Getting Started
 
-Comprehensive documentation is provided to help you set up your app and start building your SaaS. You can find it here: [Getting Started Documentation](https://saashovel.com/documentation#Get-Started).
+Comprehensive documentation is provided to help you set up your app and start building your SaaS. You can find it here: [Getting Started Documentation]([https://saashovel.com/documentation#Get-Started](https://github.com/tcja/saashovel/blob/main/documentation.md)).
 
 ## Support
 
