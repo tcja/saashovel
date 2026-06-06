@@ -1864,20 +1864,6 @@ Props for <x-feature-item>:
 </x-features-grid>
 ```
 
-### Paddle
-
-NowPayments NowPayments for crypto
-
-Never worry about payment processor bans again.
-
-- Built-in `CMS`
-
-Create and manage content with ease. Set page permissions to restrict access to subscribers of specific tiers. Includes customizable contact page for customer interaction and a flexible `FAQ` section.
-
-- `TALL` Stack Powered
-
-Leverage the power of Tailwind , `Alpine.js` , Laravel , and Livewire for a modern, reactive, and scalable application. As well as Jetstream for user's account management and Filament for the admin panel.
-
 ### Pricing Section
 
 A section component to display multiple pricing plans.
